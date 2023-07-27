@@ -1,6 +1,6 @@
 # Privacy Policy
 
-[COMPANY-NAME] built the all app as a Free app. This SERVICE is provided by [COMPANY-NAME] at no cost and is intended for use as is.
+Dev Mat App Chef built the all app as a Free app. This SERVICE is provided by Dev Mat App Chef at no cost and is intended for use as is.
 
 ## Information Collection and Use
 
